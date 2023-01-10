@@ -12,11 +12,12 @@ import img5 from '../assets/5.png'
 const headingOptions = {
     pos: 'absolute',
     left: '50%',
-    top: '50%',
+    top: '20%',
     transform: 'translate(-50%,-50%)',
     textTransform: 'upercase',
     p: '4',
     size: "4xl",
+    opacity:"0.4"
 
 
 }
